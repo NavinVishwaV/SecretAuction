@@ -1,9 +1,3 @@
-# SecretAuction
-A Tkinter-based bidding system application in Python
-Here’s the complete text for your `README.md` file, incorporating the MIT License and your GitHub username:
-
----
-
 # Tkinter Bidding System
 
 This is a Python-based bidding system application developed using the Tkinter library. The application allows users to submit bids, keeps track of the highest bid, and displays the highest bidder when bidding ends.
@@ -30,6 +24,8 @@ This is a Python-based bidding system application developed using the Tkinter li
    ```bash
    python bidding_system.py
    ```
+   **Note**: If prompted for a password, ensure you have the necessary permissions and that your environment is correctly set up. This may occur in restricted environments or when accessing specific system features.
+
    Ensure you have Python installed on your machine. This script uses the standard Python installation with the Tkinter library, which is included by default in most Python distributions.
 
 ## Requirements
@@ -58,4 +54,4 @@ For any questions or suggestions, please contact NavinVishwaV on [GitHub](https:
 
 ---
 
-You can copy this text into your `README.md` file in your GitHub repository to provide a clear overview of your project.
+Feel free to modify the note about the password prompt based on your specific situation or requirements.
