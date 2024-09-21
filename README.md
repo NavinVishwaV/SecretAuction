@@ -51,7 +51,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Contact
 
 For any questions or suggestions, please contact NavinVishwaV on [GitHub](https://github.com/NavinVishwaV).
-
----
-
-Feel free to modify the note about the password prompt based on your specific situation or requirements.
